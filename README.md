@@ -22,4 +22,4 @@
 
 Чтобы опубликовать сайт, откройте **Settings → Pages**, выберите ветку `main` и папку `/(root)`, затем нажмите **Save**. После публикации адрес сайта будет:
 
-`https://sanzhar67-alt.github.io/MyPortfolio/`
+[Сайтты ашу](https://sanzhar67-alt.github.io/MyPortfolio/)
